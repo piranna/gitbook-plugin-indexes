@@ -1,0 +1,28 @@
+{
+  "name": "gitbook-plugin-indexes",
+  "version": "0.0.0",
+  "description": "Add indexes to the headers of GitBook books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piranna/gitbook-plugin-indexes.git"
+  },
+  "keywords": [
+    "GitBook",
+    "PDF",
+    "indexes",
+    "headers"
+  ],
+  "author": "Jesús Leganés Combarro 'piranna' <piranna@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piranna/gitbook-plugin-indexes/issues"
+  },
+  "homepage": "https://github.com/piranna/gitbook-plugin-indexes#readme",
+  "engines": {
+    "gitbook": "*"
+  }
+}
